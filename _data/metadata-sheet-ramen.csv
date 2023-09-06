@@ -1,0 +1,11 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,ramen1.jpg,,,Shoyu Egg,Pacific Photo Co.,1910-10-14,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,ramen2.jpg,,,Variety Egg,,2023-09-06,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll003,ramen3.jpg,,,Deep Broth,,2023-09-07,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll004,ramen4.jpg,,,Instant Spice Up,,2023-09-08,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll005,ramen5.jpg,,,Cup of Strolling,,2023-09-09,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll006,ramen6.jpg,,,Tonkotsu Broth,,2023-09-10,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll007,ramen7.jpg,,,Thin Noodle,,2023-09-11,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll008,ramen8.pg,,,Spicy Beef,,2023-09-12,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll009,ramen9.jpg,,,Spicy Pork,,2023-09-13,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
+coll010,ramen10.jpg,,,Bamboo Shoots,,2023-09-14,,food;ramen,,,,,,Image;StillImage,image/jpeg,eng,Public domain,
